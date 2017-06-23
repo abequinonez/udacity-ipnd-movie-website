@@ -19,7 +19,7 @@ robocop = media.Movie("Robocop",
 						media.Movie.VALID_RATINGS[3])
 
 kill_bill = media.Movie("Kill Bill",
-						"http://img.csfd.cz/files/images/user/profile/159/451/159451641_729a41.jpg",
+						"https://img.csfd.cz/files/images/user/profile/159/451/159451641_729a41.jpg",
 						"https://www.youtube.com/watch?v=7kSuas6mRpk",
 						2003,
 						"Quentin Tarantino",
